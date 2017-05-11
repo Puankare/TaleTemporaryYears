@@ -1,0 +1,1 @@
+At this project it is used word vectorization approach via LSA and word2vec for performing semantic analysis for the Tale of Temporary Years.
